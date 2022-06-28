@@ -1,11 +1,14 @@
-# AceleraICarros_Tech | Turma Front End
+# Acelera ICarros_Tech | Turma Front End - Projeto 01
+~~~
+O objetivo deste projeto é colocar em prática os assuntos ensinados nas aulas do Acelera Tech iCarros, uma parceria da Gama Academia com o ICarros
+~~~
+## Introdução
+A intenção é criar um site com um estilo que faça referência ao site do ICarros, utilizando apenas HTML, CSS e Javascript.
 
-## Projeto de Aula com HTML e CSS
-Tecnologicas aplicadas:
-- HTML
-- Menu hambúrguer apenas com CSS
-- Open Graph Protocol (OPG)
-- Hotjar
-- Deploy com Netlify
-- Git
-- Google Search Console (GSC)
+## Tecnologicas aplicadas:
+- HTML;
+- CSS;
+- Javascript;
+- Metatags do OpenGraph;
+- Google Search Console;
+- Hotjar;
